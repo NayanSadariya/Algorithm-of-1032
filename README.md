@@ -1,1 +1,1 @@
-compile : g++ tests/Test.cpp core/AlgorithmOF1032.cpp core/BinarySearch.cpp -o Test.exe
+I'm readme !!
