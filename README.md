@@ -105,12 +105,6 @@ CITATION.cff
 
 **Nayan Sadariya**
 
-Computer Science Research Project
-
-2026
-
-<<<<<<< HEAD
+Computer Science Research Project 2026
+Contacts : nayann.in, contact.nayannn@gmail.com
 ---
-=======
----
->>>>>>> 04e9ecc391395ef87d2e735705ec9c168fc64a75
