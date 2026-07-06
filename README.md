@@ -37,7 +37,7 @@ The framework is composed of:
 
 <p align="center">
 
-<img src="Visuals/Figure_1_Framework_Architecture.png" width="900">
+<img src="Visuals/Figure_1_Framework_Architecture.png" height="650" width="325">
 
 </p>
 
