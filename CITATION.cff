@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Algorithm OF 1032: An Adaptive Multi-Policy Search Framework for Efficient Searching in Sorted Arrays"
+
+message: >
+  If you use this repository or Algorithm OF 1032 in your research,
+  please cite it using the metadata below.
+
+type: software
+
+authors:
+  - family-names: Sadariya
+    given-names: Nayan
+
+repository-code: "https://github.com/NayanSadariya/Algorithm-of-1032"
+
+url: "https://github.com/NayanSadariya/Algorithm-of-1032"
+
+license: MIT
+
+version: "6.0"
+
+date-released: "2026-07-06"
+
+abstract: >
+  Algorithm OF 1032 is an adaptive multi-policy search framework for
+  sorted arrays. The framework estimates the relative position of a
+  target element and dynamically selects one of multiple specialized
+  search policies through a centralized Policy Manager. The framework
+  integrates the Relative Position Estimator (RPE), Policy Manager (PM),
+  Binary Search Engine (BSE), Head-Oriented Search Policy (HOP), and
+  Tail-Oriented Search Policy (TOP).
+
+keywords:
+  - Search Algorithms
+  - Adaptive Search
+  - Binary Search
+  - Data Structures
+  - Algorithm Design
+  - Multi-Policy Search
+  - Sorted Arrays
+  - C++
+  - Research
